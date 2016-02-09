@@ -1,0 +1,19 @@
+{
+    "name": "wp/better-blockquotes",
+    "description": "Better blockquotes by devinsays",
+    "type": "wordpress-plugin",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/andershal/better-blockquotes",
+    "authors": [
+        {
+            "name": "Peytz & Co",
+            "email": "wordpress@peytz.dk",
+            "homepage": "http://peytz.dk"
+        },
+        {
+            "name": "Anders Hal Werner",
+            "email": "hal@peytz.dk",
+            "homepage": "http://peytz.dk/medarbejdere/hal"
+        }
+    ]
+}
